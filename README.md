@@ -1,2 +1,0 @@
-# VisualStorytellingJourney_Starter
- 
